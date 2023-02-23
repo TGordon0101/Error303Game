@@ -1336,3 +1336,4 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.02.23-06.39.28:985][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.02.23-06.39.29:043][  0]LogAutomationController: Ignoring very large delta of 16865831.82 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.02.23-06.39.32:136][215]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.23-06.41.16:333][801]LogDerivedDataCache: C:/Users/Thomas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.075 and deleted 0 files with total size 0 MiB. Scanned 2830 files in 2811 folders with total size 54 MiB.
