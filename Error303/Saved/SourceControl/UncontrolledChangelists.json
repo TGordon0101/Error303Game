@@ -5,9 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHub/Error303Game/Error303/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/GitHub/Error303Game/Error303/Content/TEST_THOMAS.umap",
+				"E:/GitHub/Error303Game/Error303/Content/TEST_THOMAS_BuiltData.uasset",
+				"E:/GitHub/Error303Game/Error303/Content/ThomasBP.uasset",
 				"E:/MDS/GitHub/UNI Git/Error303Game/Error303/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
-				"E:/MDS/GitHub/UNI Git/Error303Game/Error303/Content/TaysBP.uasset",
-				"E:/GitHub/Error303Game/Error303/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"E:/MDS/GitHub/UNI Git/Error303Game/Error303/Content/TaysBP.uasset"
 			]
 		}
 	]
