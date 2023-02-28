@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lizgt/OneDrive/Desktop/Error303Game/Error303/Content/Error303/2D_Assets/RGP_Iso_Box_Open.uasset",
+				"C:/Users/lizgt/OneDrive/Desktop/Error303Game/Error303/Content/Error303/2D_Assets/RGP_Iso_Box_Closed.uasset",
+				"C:/Users/lizgt/OneDrive/Desktop/Error303Game/Error303/Content/Error303/2D_Assets/Scenes_Sky_RGP.uasset",
+				"C:/Users/lizgt/OneDrive/Desktop/Error303Game/Error303/Content/Error303/2D_Assets/Scenes_Space_RGP.uasset",
+				"C:/Users/lizgt/OneDrive/Desktop/Error303Game/Error303/Content/Error303/2D_Assets/Scenes_Start_RGP.uasset",
+				"C:/Users/lizgt/OneDrive/Desktop/Error303Game/Error303/Content/Error303/2D_Assets/Scenes_Storage_RGP.uasset",
+				"C:/Users/lizgt/OneDrive/Desktop/Error303Game/Error303/Content/Error303/2D_Assets/Scenes_Sunset_RGP.uasset",
 				"D:/Git Hub Repositories/Error303Game/Error303/Content/Error303/Materials/Furniture_SharedTextureSheet.uasset",
 				"D:/Git Hub Repositories/Error303Game/Error303/Content/Error303/3D_Assets/Cabinet_2x2.uasset",
 				"D:/Git Hub Repositories/Error303Game/Error303/Content/Error303/3D_Assets/CornerTable_2x3.uasset",
