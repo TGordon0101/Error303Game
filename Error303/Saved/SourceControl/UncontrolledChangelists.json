@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Users/mds00002cj/Documents/GitHub/Error303Game/Error303/Content/Error303/Maps/TEST_THOMAS.umap",
+				"D:/Users/mds00002cj/Documents/GitHub/Error303Game/Error303/Content/Error303/textures/Render_Target.uasset",
+				"D:/Users/mds00002cj/Documents/GitHub/Error303Game/Error303/Content/Error303/Materials/Minimap_Texture.uasset",
+				"D:/Users/mds00002cj/Documents/GitHub/Error303Game/Error303/Content/Error303/Blue_Prints/BP_Camera.uasset",
+				"D:/Users/mds00002cj/Documents/GitHub/Error303Game/Error303/Content/Error303/textures/Minimap_Texture.uasset",
+				"D:/Users/mds00002cj/Documents/GitHub/Error303Game/Error303/Content/Error303/Widgets/UI_HUD.uasset",
+				"D:/Users/mds00002cj/Documents/GitHub/Error303Game/Error303/Content/Error303/3D_Assets/EJV2_FBX/CornerTable_2x3.uasset",
 				"D:/Git Hub Repositories/Error303Game/Error303/Content/Error303/Materials/Furniture_SharedTextureSheet.uasset",
 				"D:/Git Hub Repositories/Error303Game/Error303/Content/Error303/3D_Assets/Cabinet_2x2.uasset",
 				"D:/Git Hub Repositories/Error303Game/Error303/Content/Error303/3D_Assets/CornerTable_2x3.uasset",
